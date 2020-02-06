@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="guava-23.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Scrivania/art/com.google.guava_1.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/Scrivania/art/guava-28.2-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
